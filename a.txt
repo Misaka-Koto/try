@@ -1,1 +1,2 @@
 a smaple file, to set the push (merge) of locasl to remote
+add some test on remote for some
